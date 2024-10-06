@@ -1,0 +1,38 @@
+.cart-summary{
+    text-align: center;
+    width:45%;
+    margin-left: 1%;
+    border: solid black 1px;
+    border-radius:5px
+}
+.card-img-top{
+    height: 200px;
+    width: 90%;
+    margin-left: 40px;
+}
+.products{
+    margin-left: 10px;
+}
+.cart-container{
+    margin-left: 10px;
+}
+.cart{
+    display: flex;
+    justify-content: flex-end;
+}
+.cart-product{
+    border: solid black 1px;
+}
+.address-option{
+    background-color: rgb(79, 145, 211);
+    margin-bottom: 10px;
+    border: solid black 1px;
+    display:flex;
+    margin-left: 20%;
+    width: 70%;
+}
+.address-txt{
+    font-size:large;
+    font-weight: 400;
+}
+

@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* pagenotfound******************************************************* */
+.pnf{
+  display: flex;
+  min-height: 65vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.pnf-title{
+  font-size: 100px;
+  font-weight: 700;
+}
+
+.pnf-heading{
+  font-weight: normal;
+}
+
+.pnf-btn{
+  color:black;
+  border: 1px solid black;
+  text-decoration: none;
+  padding:10px;
+  margin-top: 10px;
+}
+/* *********************************************************************** */
+
+/* navbar************************************************************** */
+.navbar{
+  font-family: serif;
+  font-size: 17px;
+  line-height: 26px;
+  text-transform: uppercase;
+  box-shadow: 0 8px 6px -6px gray;
+  border-bottom: solid gray ;
+}
+
+.nav-link{
+  font-weight: 300;
+}
+
+.active{
+  border-bottom: 2px solid black;
+
+}
+/* ************************************************************************************\ */
+
+/* register page**************************************************** */
+.register{
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  height: 70vh;
+  flex-direction: column;
+}

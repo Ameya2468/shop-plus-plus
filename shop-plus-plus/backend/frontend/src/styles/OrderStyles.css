@@ -1,0 +1,50 @@
+/* .container{
+    width:100%
+} */
+ .card-img-top{
+   margin-top: 5%;
+   margin-bottom: 5%;
+ }
+
+ .img-container{
+    /* width:350px; */
+    /* margin-bottom: 5%; */
+    
+ }
+
+ .product-info{
+    margin-top: 5%;
+    /* margin-left: 10%; */
+    /* margin-left: 5%; */
+ }
+
+.prod-name{
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 60px;
+}
+
+.prod-desc{
+    font-size: larger;
+    margin-left: 60px;
+}
+
+.prod-price{
+    font-size: x-large;
+    font-weight: 500;
+    margin-left: 60px;
+}
+
+.prod-quantity{
+    font-size: larger;
+    font-weight: 500;
+    margin-left: 60px;
+}
+
+.order-info{
+    font-weight: 500;
+}
+
+.title{
+    font-size: larger;
+}
